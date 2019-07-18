@@ -1,2 +1,1 @@
-# htc
-how to code course
+## how to code course
